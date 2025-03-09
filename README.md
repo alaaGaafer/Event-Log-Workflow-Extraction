@@ -57,6 +57,5 @@ pip install numpy pandas networkx matplotlib pm4py
 
 ## References
 
-- [Process Mining: Discovery, Conformance, and Enhancement of Business Processes - Wil van der Aalst](https://www.springer.com/gp/book/9783662565092)
-- [PM4Py - Process Mining for Python](https://pm4py.fit.fraunhofer.de/)
-
+- https://en.wikipedia.org/wiki/Alpha_algorithm
+- http://mlwiki.org/index.php/Alpha_Algorithm
